@@ -1,31 +1,31 @@
 [
 {
     "title": "Wefinex",
-    "link": "https://tronscan.org",
+    "link": "https://tronbroker.io/home",
     "img": "imgExness"
   },
  {
     "title": "Wefinex",
-    "link": "https://wefinex.net/reg?r=4ADE545",
+    "link": "https://tronbroker.io/login",
     "img": "imgWefinex"
   },
 {
     "title": "Youtube",
     "youtube": true,
     "link":
-      "https://www.youtube.com/embed/videoseries?list=PLJiGAeuHLIAZWhJwi-qnNOUp-8Tsc7Qw-",
+      "https://youtu.be/AWPpyGqKmCw",
     "img": "youtube"
   },
  {
     "title": "Wefinex",
-    "link": "https://www.binance.com/en/futures/ref/41457556",
+    "link": "https://tronbroker.io/login",
     "img": "imgBinance",
     "blank": true
   },
   
 {
     "title": "NagaTrade",
-    "link": "https://tronscan.org",
+    "link": "https://tronbroker.io/login",
     "img": "imgNaga",
     "blank": true
   }
